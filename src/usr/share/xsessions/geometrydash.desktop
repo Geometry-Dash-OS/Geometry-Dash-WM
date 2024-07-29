@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Geometry Dash Session
+Comment=Geometry Dash
+Exec=/usr/share/gd/launch.sh
+Icon=
+Type=Application
+DesktopNames=GMD
